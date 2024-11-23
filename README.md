@@ -6,7 +6,7 @@ Yash Thakar, Bhuvi Ghosh, Vishma Adeshra, Kriti Srivastava
 
 
 ## Manuscripts
-This paper was presented at the 15th International Conference on Computing Communication and Networking Technologies (ICCCNT) and publised in [IEEE Xplore](https://ieeexplore.ieee.org/document/10725668).
+This paper was presented at the 15th International Conference on Computing Communication and Networking Technologies (ICCCNT), at IIT Mandi and publised in [IEEE Xplore](https://ieeexplore.ieee.org/document/10725668).
 
 DOI: [10.1109/ICCCNT61001.2024.10725668](https://doi.org/10.1109/ICCCNT61001.2024.10725668)
 
