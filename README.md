@@ -2,13 +2,13 @@
 
 by
 Yash Thakar, Bhuvi Ghosh, Vishma Adeshra, Kriti Srivastava
+> The Research focuses on the development of a QC-CNN architecture to perform audio classification using mel-spectrograms. The QC-CNN architecture developed achieved comparative performance with classical models.
+
 
 ## Manuscripts
 This paper was presented at the 15th International Conference on Computing Communication and Networking Technologies (ICCCNT) and publised in [IEEE Xplore](https://ieeexplore.ieee.org/document/10725668).
 
 DOI: [10.1109/ICCCNT61001.2024.10725668](https://doi.org/10.1109/ICCCNT61001.2024.10725668)
-
-> The Research focuses on the development of a QC-CNN architecture to perform audio classification using mel-spectrograms. The QC-CNN architecture developed achieved comparative performance with classical models.
 
 ## Abstract
 
