@@ -28,6 +28,13 @@ Key findings include:
    - Performance metrics such as accuracy and cross-entropy loss were compared with classical CNNs.  
 
 ## Results  
+
+#### Small-Sized Music Genre Classification Dataset:
+![Training and Validation Loss](Readme%20images/result.png)
+
+#### Large-Sized Birdsong Dataset:
+![Test Accuracy Comparison](Readme%20images/result1.png)
+
 - On the small dataset, QC-CNN performed comparably to classical CNNs during training.  
 - For the large birdsong dataset, QC-CNN outperformed classical CNNs with a test accuracy of 95.04% versus 92.88%.  
 - QC-CNN demonstrated reduced overfitting and better generalization capabilities.  
