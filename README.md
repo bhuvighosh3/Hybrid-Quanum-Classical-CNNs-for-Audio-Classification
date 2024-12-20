@@ -53,8 +53,12 @@ Key findings include:
 - For the large birdsong dataset, QC-CNN outperformed classical CNNs with a test accuracy of 95.04% versus 92.88%.  
 - QC-CNN demonstrated reduced overfitting and better generalization capabilities.
 
-<img src="Readme images/result.png" width="500" style="margin-right: 20px;" />
-<img src="Readme images/result1.png" width="500" />
+<div style="display: inline-block; margin-right: 20px;">
+  <img src="Readme images/result.png" width="500" />
+</div>
+<div style="display: inline-block;">
+  <img src="Readme images/result1.png" width="500" />
+</div>
 
 ## Software Implementation  
 
