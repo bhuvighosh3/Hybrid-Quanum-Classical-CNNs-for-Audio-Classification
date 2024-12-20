@@ -3,21 +3,18 @@
 **Authors**: Yash Thakar, Bhuvi Ghosh, Vishma Adeshra, Kriti Srivastava  
 
 ## Overview  
-This research explores a hybrid quantum-classical convolutional neural network (QC-CNN) architecture for audio classification using mel-spectrograms. The QC-CNN demonstrated competitive performance with classical models, especially on large datasets, showcasing its potential for audio data applications.  
+This research introduces a hybrid QC-CNN architecture for audio classification using mel-spectrograms. The QC-CNN outperforms classical models, particularly on large datasets, showcasing its potential for audio data applications.
 
-## Manuscripts  
-This paper was presented at the **15th International Conference on Computing Communication and Networking Technologies (ICCCNT)**, IIT Mandi, and published in **[IEEE Xplore](https://ieeexplore.ieee.org/document/10725668)**.  
+## Publication  
+- **IEEE Xplore**: [Link to Paper](https://ieeexplore.ieee.org/document/10725668)  
+- **Conference**: 15th International Conference on Computing Communication and Networking Technologies (ICCCNT), IIT Mandi  
+- **DOI**: [10.1109/ICCCNT61001.2024.10725668](https://doi.org/10.1109/ICCCNT61001.2024.10725668)
 
-**DOI**: [10.1109/ICCCNT61001.2024.10725668](https://doi.org/10.1109/ICCCNT61001.2024.10725668)  
-
-## Abstract  
-Audio signals, known for their high dimensionality and complexity, present challenges for classical machine learning techniques in computation and generalization. This research project evaluates a hybrid QC-CNN architecture that leverages quantum phenomena such as superposition and entanglement for audio classification using mel-spectrograms.  
-
-Key findings include:  
-- QC-CNN achieved comparable training accuracy with classical CNN on small datasets but surpassed it on test accuracy (95.04% vs. 92.88%) for a large birdsong dataset.  
-- The architecture reduced overfitting and exhibited significantly lower cross-entropy loss on larger datasets.  
-- Demonstrates the application of QC-CNN for robust and efficient audio classification tasks.  
-
+## Key Findings  
+- The QC-CNN model achieved **higher test accuracy** (95.04%) compared to classical CNN (92.88%) on a large birdsong dataset.  
+- On smaller datasets, QC-CNN matched the training accuracy of classical CNN, but outperformed it in **test accuracy** on larger datasets.  
+- The QC-CNN architecture reduced **overfitting** and demonstrated **lower cross-entropy loss** on larger datasets, enhancing model efficiency and robustness for audio classification tasks.
+  
 ## Methodology
 
 <p align="center">
