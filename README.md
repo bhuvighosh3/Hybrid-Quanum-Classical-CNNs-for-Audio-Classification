@@ -27,26 +27,25 @@ Key findings include:
 1. **System Architecture**:
    - Developed a system to build and evaluate QC-CNN models, focusing on data preparation, feature extraction, and model evaluation.
 
-2. **Dataset Preparation**:
+2. **Dataset Preparation and Feature Extraction**:
    - Utilized two datasets:
      - **GTZAN Genre Classification** (small dataset): 10 music genres with 100 files per genre for binary classification.
      - **Birdsong Dataset** (large dataset): 1000 audio files per bird species for binary classification.
+   - Audio signals from both datasets were converted into **Mel-Spectrograms** to capture frequency-domain features, aligning with human auditory perception. Mel-Spectrograms were used as the input features for training the models.
 
-3. **Feature Extraction**:
-   - Converted audio signals from both datasets into **Mel-Spectrograms** to capture frequency-domain features aligned with human auditory perception.
-
-4. **Classical CNN Architecture**:
+3. **Classical CNN Architecture**:
    - Comprised three convolutional layers, max-pooling, dropout regularization, and fully connected layers.
    - Optimized using **Stochastic Gradient Descent (SGD)** and **binary cross-entropy loss**.
 
-5. **Quantum-Classical Hybrid Model**:
+4. **Quantum-Classical Hybrid Model**:
    - Integrated a quantum neural network (QNN) layer with an 8-qubit quantum circuit, including **ZZFeatureMap** for embedding classical data and **RealAmplitudes** ansatz for quantum processing.
 
-6. **Model Evaluation**:
+5. **Model Evaluation**:
    - Models were trained and evaluated on:
      - **GTZAN Genre Classification Dataset** (small dataset)
      - **Birdsong Dataset** (large dataset)
-   - Performance was compared using metrics like accuracy, precision, and cross-entropy loss.  
+   - Performance was compared using metrics like accuracy, precision, and cross-entropy loss.
+  
 
 ## Results  
 
