@@ -51,8 +51,8 @@ This research introduces a hybrid QC-CNN architecture for audio classification u
 - QC-CNN demonstrated reduced overfitting and better generalization capabilities.
   
 <div style="display: flex;">
-  <img src="Readme images/result.png" width="500" style="margin-right: 20px;" />
-  <img src="Readme images/result1.png" width="500" />
+  <img src="Readme images/result.png" width="470" style="margin-right: 20px;" />
+  <img src="Readme images/result1.png" width="470" />
 </div>
 
 ## Software Implementation  
