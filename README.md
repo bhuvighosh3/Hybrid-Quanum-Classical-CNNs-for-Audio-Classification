@@ -18,7 +18,10 @@ Key findings include:
 - The architecture reduced overfitting and exhibited significantly lower cross-entropy loss on larger datasets.  
 - Demonstrates the application of QC-CNN for robust and efficient audio classification tasks.  
 
-## Methodology  
+## Methodology
+
+<img src="Readme images/architecture diagram.png" width="500" />
+
 1. **Model Development**:  
    - A hybrid QC-CNN architecture was designed to combine classical convolutional layers with quantum processing.  
    - Mel-spectrograms from audio data were used as input features.  
