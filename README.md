@@ -30,7 +30,7 @@ Key findings include:
 ## Results  
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="Readme images/result.png" width="500" />
+    <img src="Readme images/result.png" width="500" /> <br>
     <img src="Readme images/result1.png" width="500" />
 </div>
 
