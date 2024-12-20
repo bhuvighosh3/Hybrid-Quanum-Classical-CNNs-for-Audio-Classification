@@ -20,7 +20,7 @@ Key findings include:
 
 ## Methodology
 
-<img src="Readme images/architecture diagram.png" width="500" />
+<img src="Readme images/architecture diagram.png" height="500" />
 
 1. **Model Development**:  
    - A hybrid QC-CNN architecture was designed to combine classical convolutional layers with quantum processing.  
