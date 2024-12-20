@@ -29,10 +29,8 @@ Key findings include:
 
 ## Results  
 
-#### Small-Sized Music Genre Classification Dataset:
 <img src="Readme images/result.png" width="500" />
 
-#### Large-Sized Birdsong Dataset:
 <img src="Readme images/result1.png" width="500" />
 
 - On the small dataset, QC-CNN performed comparably to classical CNNs during training.  
