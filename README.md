@@ -54,7 +54,7 @@ Key findings include:
 - QC-CNN demonstrated reduced overfitting and better generalization capabilities.
   
 <div style="display: flex;">
-  <img src="Readme images/result.png" width="500" style="margin-right: 45px;" />
+  <img src="Readme images/result.png" width="500" style="margin-right: 20px;" />
   <img src="Readme images/result1.png" width="500" />
 </div>
 
