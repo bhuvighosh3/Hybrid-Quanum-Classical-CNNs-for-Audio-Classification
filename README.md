@@ -39,14 +39,14 @@ The project provides:
 2. **Data**: The dataset used for analysis is stored within the repository.  
 3. **Results**: All results are reproducible using the scripts provided.  
 
-### Dependencies
+## Dependencies
 
 You'll need a working Python environment to run the code.
 The recommended way to set up your environment is through the
 [virtualenv](https://virtualenv.pypa.io/en/latest/) python package.
 The required dependencies are specified in the file `requirements.txt`.
 
-### Getting the Code  
+## Getting the Code  
 Clone the repository to access the code:  
 
 ```bash  
