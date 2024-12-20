@@ -23,6 +23,7 @@ Key findings include:
 <p align="center">
   <img src="Readme images/architecture diagram.png" height="500" />
 </p>
+
 1. **System Architecture**:
    - Developed a system to build and evaluate QC-CNN models, focusing on data preparation, feature extraction, and model evaluation.
 
