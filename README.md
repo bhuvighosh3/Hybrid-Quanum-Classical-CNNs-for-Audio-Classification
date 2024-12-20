@@ -11,7 +11,7 @@ This paper was presented at the **15th International Conference on Computing Com
 **DOI**: [10.1109/ICCCNT61001.2024.10725668](https://doi.org/10.1109/ICCCNT61001.2024.10725668)  
 
 ## Abstract  
-Audio signals, known for their high dimensionality and complexity, present challenges for classical machine learning techniques in computation and generalization. This paper evaluates a hybrid QC-CNN architecture that leverages quantum phenomena such as superposition and entanglement for audio classification using mel-spectrograms.  
+Audio signals, known for their high dimensionality and complexity, present challenges for classical machine learning techniques in computation and generalization. This research project evaluates a hybrid QC-CNN architecture that leverages quantum phenomena such as superposition and entanglement for audio classification using mel-spectrograms.  
 
 Key findings include:  
 - QC-CNN achieved comparable training accuracy with classical CNN on small datasets but surpassed it on test accuracy (95.04% vs. 92.88%) for a large birdsong dataset.  
